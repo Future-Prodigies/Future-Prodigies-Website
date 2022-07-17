@@ -6,7 +6,7 @@
   }
   
   .navbar {
-    background: #131313;
+    background: #eefff5;
     height: 80px;
     display: flex;
     justify-content: center;
@@ -31,8 +31,7 @@
   }
   
   #navbar__logo {
-    background-color: #ff8177;
-    background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
+    background-color: #de4e4e;
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -61,7 +60,7 @@
   }
   
   .navbar__links {
-    color: #fff;
+    color: #de4e4e;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -89,19 +88,19 @@
     border: none;
     outline: none;
     border-radius: 4px;
-    background: #f77062;
-    color: #fff;
+    background: #de4e4e;
+    color: #eefff5;
   }
   
   .button:hover {
-    background: #4837ff;
+    background: #73d28f;
     transition: all 0.3s ease;
   }
   
-  .navbar__links:hover {
+  /* .navbar__links:hover {
     color: #f77062;
     transition: all 0.3s ease;
-  }
+  } */
   
   @media screen and (max-width: 960px) {
     .navbar__container {
@@ -128,7 +127,7 @@
     }
   
     .navbar__menu.active {
-      background: #131313;
+      background: #eefff5;
       top: 100%;
       opacity: 1;
       transition: all 0.5s ease;
@@ -146,7 +145,7 @@
       height: 3px;
       margin: 5px auto;
       transition: all 0.3s ease-in-out;
-      background: #fff;
+      background: #de4e4e;
     }
   
     .navbar__item {
@@ -199,7 +198,7 @@
   }
 
 .main {
-  background-color: #141414;
+  background-color: #eefff5;
 }
 
 .main__container {
@@ -209,7 +208,7 @@
   justify-self: center;
   margin: 0 auto;
   height: 90vh;
-  background-color: #141414;
+  background-color: #eefff5;
   z-index: 1;
   width: 100%;
   max-width: 1300px;
@@ -227,7 +226,7 @@
   -mos-text-fill-color: transparent;
 }
 
-.main__content h2 {
+.main__content h2 {    /*NOTE: this is the [header here part... change if needed]*/
   font-size: 4rem;
   background-color: #ff8177;
   background-image: linear-gradient(to top, #b721ff 0%, #21d4fd 100%);
@@ -242,13 +241,14 @@
   margin-top: 1rem;
   font-size: 2rem;
   font-weight: 700;
-  color: #fff
+  color: #de4e4e
 }
 
 .main__btn {
   font-size: 1rem;
   background-image: linear-gradient(to top, #f77062 0%, #fe5196, 100%);
   padding: 14px 32px;
+  background: #de4e4e;
   border: none;
   border-radius: 4px;
   color: #fff;
@@ -273,7 +273,7 @@
   left: 0;
   width: 0;
   height: 100%;
-  background: #4837ff;
+  background: #73d28f;
   transition: all 0.35s;
   border-radius: 4px;
   transition: all 0.35s;
@@ -354,7 +354,7 @@
 /* Services Section CSS */
 
 .services {
-  background: #141414;
+  background: #eefff5;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -394,8 +394,8 @@
   border-radius: 4px;
   background-image: linear-gradient(
       to bottom,
-      rgba(0, 0, 0, 0) 0%,
-      rgba(17, 17, 17, 0.6) 100%
+      #da9e9e 0%,
+      #da9e9e 100%
     ),
     url('/images/pic3.jpg');
   background-size: cover;
@@ -410,8 +410,8 @@
 .services__card:nth-child(2) {
   background-image: linear-gradient(
       to bottom,
-      rgba(0, 0, 0, 0) 0%,
-      rgba(17, 17, 17, 0.9) 100%
+      #da9e9e 0%,
+      #da9e9e 100%
     ),
     url('/images/pic4.jpg');
 }
