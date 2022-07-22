@@ -221,8 +221,7 @@
 
 .main__content h1 {
   font-size: 4rem;
-  background-color: #ff8177;
-  background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
+  background-color: #de4e4e;
   background-size: 100%;
   -webkit-background-clip: text;
   -moz-background-clip: text;
@@ -232,8 +231,7 @@
 
 .main__content h2 {    /*NOTE: this is the [header here part... change if needed]*/
   font-size: 4rem;
-  background-color: #ff8177;
-  background-image: linear-gradient(to top, #b721ff 0%, #21d4fd 100%);
+  background-color: #de4e4e;
   background-size: 100%;
   -webkit-background-clip: text;
   -moz-background-clip: text;
@@ -245,7 +243,7 @@
   margin-top: 1rem;
   font-size: 2rem;
   font-weight: 700;
-  color: #de4e4e
+  color: #73d28f
 }
 
 .main__btn {
