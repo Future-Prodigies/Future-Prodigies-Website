@@ -1,17 +1,41 @@
 <?php
   include_once 'header.php'
 ?>
-      <div class="main__container">
-        <div class="main__content">
-          <h1>[header here]</h1>
-          <p>Check out our technologies</p>
-          <button class="main__btn"><a href="#">Get Started</a></button>
-        </div>
-        <div class="main__img-container">
-          <a>image here</a>
-        </div>
+    <body>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="about.css">
+    <div class="wrapper">
+  <h1>About Us</h1>
+  <div class="team">
+    <div class="team_member">
+      <div class="team_img">
+        <img src="https://i.imgur.com/2pGPLrl.png" alt="Team_image">
       </div>
+      <h3>Paul Doe</h3>
+      <p class="role">UI developer</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est quaerat tempora, voluptatum quas facere dolorum aut cumque nihil nulla harum nemo distinctio quam blanditiis dignissimos.</p>
     </div>
+    <div class="team_member">
+      <div class="team_img">
+        <img src="https://i.imgur.com/jQj1I8E.png" alt="Team_image">
+      </div>
+      <h3>Rosie Meg</h3>
+      <p class="role">Tester</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est quaerat tempora, voluptatum quas facere dolorum aut cumque nihil nulla harum nemo distinctio quam blanditiis dignissimos.</p></div>
+    <div class="team_member">
+      <div class="team_img">
+        <img src="https://i.imgur.com/2Necikc.png" alt="Team_image">
+      </div>
+      <h3>Alex Wood</h3>
+      <p class="role">Support Lead</p>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est quaerat tempora, voluptatum quas facere dolorum aut cumque nihil nulla harum nemo distinctio quam blanditiis dignissimos.</p>
+    </div>
+  </div>
+</div>
+    </body>
+
 <?php
   include_once 'footer.php'
 ?>
