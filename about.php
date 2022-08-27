@@ -11,26 +11,45 @@
   <div class="team">
     <div class="team_member">
       <div class="team_img">
-        <img src="https://i.imgur.com/2pGPLrl.png" alt="Team_image">
+        <img src="images/undraw_engineering_team_a7n2.svg" alt="Team_image">
       </div>
-      <h3>Paul Doe</h3>
-      <p class="role">UI developer</p>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est quaerat tempora, voluptatum quas facere dolorum aut cumque nihil nulla harum nemo distinctio quam blanditiis dignissimos.</p>
+      <br>
+      <h3>Who We Are</h3>
+      <p><br>Future Prodigies is a high school tutoring serice that strives to help students academically. It was founded by a group of high school students who wish to bring upon education to students. We, high school students, created Future Prodigies to help students thrive in an academic setting, whether it be for school or extracurriculars. Additionally, Future Prodigies assists students expand their extracurricular profile and help them develop a passion.</p>
     </div>
     <div class="team_member">
       <div class="team_img">
-        <img src="https://i.imgur.com/jQj1I8E.png" alt="Team_image">
+        <img src="images/undraw_education_f8ru.svg" alt="Team_image">
       </div>
-      <h3>Rosie Meg</h3>
-      <p class="role">Tester</p>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est quaerat tempora, voluptatum quas facere dolorum aut cumque nihil nulla harum nemo distinctio quam blanditiis dignissimos.</p></div>
+      <br>
+      <h3>Our Mission</h3>
+      <br>
+      <p>Our mission is to provide quality education and tutoring services for all students in grades K-10 to learn and grow as a person. Through Future Prodigies, all students will have opportunities to achieve their goals and develop new skills, which will help them in the long-term with their academic needs. Students will learn to adapt in any academic environment and succeed academically. Furthermore, Future Prodgies will help give students the confidence they need in and out of school.</p></div>
     <div class="team_member">
       <div class="team_img">
-        <img src="https://i.imgur.com/2Necikc.png" alt="Team_image">
+        <img src="images/undraw_teaching_re_g7e3.svg" alt="Team_image">
       </div>
-      <h3>Alex Wood</h3>
-      <p class="role">Support Lead</p>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est quaerat tempora, voluptatum quas facere dolorum aut cumque nihil nulla harum nemo distinctio quam blanditiis dignissimos.</p>
+      <br>
+      <h3>What We Provide</h3>
+      <br>
+      <p>At Future Prodiges, we provide tutoring for different subjects for students grades K-8. Here, we offer 
+English: Reading Comprehension, Grammar
+
+Science: Biology, Earth Science, General Sciences 
+
+Mathematics: Pre-algebra, Algebra 1
+
+Social Studies/Humanities: World History, US History 
+</p>
+    </div>
+    <div class="team_member">
+      <div class="team_img">
+        <img src="images/undraw_graduation_re_gthn.svg" alt="Team_image">
+      </div>
+      <br>
+      <h3>Why Us</h3>
+      <br>
+      <p>Educating students is our top priority, for we strive to support students greatly. Future Prodigies wishes to see all of our students prosper and thrive. By providing students with academic and extracurricular opportunities, we want our students to develop and strengthen their talents. This is why Future Prodigies is here to help. </p>
     </div>
   </div>
 </div>

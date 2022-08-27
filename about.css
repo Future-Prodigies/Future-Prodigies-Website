@@ -53,14 +53,14 @@ body{
   top: -50px;
   left: 50%;
   transform: translateX(-50%);
-  width: 100px;
-  height: 100px;
+  width: 125px;
+  height: 125px;
   border-radius: 50%;
   background: #fff;
 }
 
 .team .team_member .team_img img{
-  width: 100px;
-  height: 100px;
+  width: 125px;
+  height: 125px;
   padding: 5px;
 }
